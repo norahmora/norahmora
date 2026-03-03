@@ -22,8 +22,9 @@
       <img src="https://img.shields.io/badge/Java-D2C9D4?style=for-the-badge&logo=openjdk&logoColor=111"><br><br>
       <img src="https://img.shields.io/badge/Adobe_Creative_Cloud-4F3466?style=for-the-badge&logo=adobe&logoColor=white">
       <img src="https://img.shields.io/badge/SEO_%26_Analytics-947CAC?style=for-the-badge&logo=googleanalytics&logoColor=white">
-      <h3>⌞ GitHub Stats ⌝</h3>
-     <img src="https://github-readme-stats.vercel.app/api?username=norahmora&amp;bg_color=0d1117&amp;title_color=CABCD7&amp;text_color=D2C9D4&amp;icon_color=947CAC&amp;border_color=4F3466&amp;show_icons=true&amp;hide_border=false" alt="Mis Estadísticas en GitHub">
+      <h3>⌞ Status ⌝</h3>
+<p>🌱 <b>Aprendiendo:</b> a diseñar en figma.<br>
+🔭 <b>Trabajando en:</b> Mi portfolio personal para unificar mis dos mundos.<br>
     </td>
     <td width="30%" valign="top">
       <h3>⌞ Formación ⌝</h3>
