@@ -30,7 +30,7 @@
       <h3>⌞ Formación ⌝</h3>
       <p>🎓 <b>Grado Sup. DAW</b><br>CESUR (2025-2027)</p>
       <p>🎓 <b>Grado Univ. Publicidad</b><br>Wales · EAD</p>
-      <p>🎨 <b>Especialización UX/UI</b><br>Figma & UX Writing</p>
+      <p>🎨 <b>Especialización futura UX/UI</b><br>Figma & UX Writing</p>
       <hr>
       <h3>⌞ Idiomas ⌝</h3>
       <p>🇪🇸 Español · Nativo<br>🇬🇧 Inglés · B2</p>
