@@ -38,8 +38,7 @@
       <h3>⌞ Contacto ⌝</h3>
       <p>Hablemos sin prisas:</p>
       <a href="mailto:norahmm85@gmail.com"><img src="https://img.shields.io/badge/Email-4F3466?style=flat-square&logo=gmail&logoColor=white"></a><br><br>
-      <a href="https://linkedin.com/in/norahmora"><img src="https://img.shields.io/badge/LinkedIn-947CAC?style=flat-square&logo=linkedin&logoColor=white"></a><br><br>
-      <a href="https://wa.me/34667479666"><img src="https://img.shields.io/badge/WhatsApp-A580A6?style=flat-square&logo=whatsapp&logoColor=white"></a>
+      <a href="https://linkedin.com/in/norah-mora-maestro"><img src="https://img.shields.io/badge/LinkedIn-947CAC?style=flat-square&logo=linkedin&logoColor=white"></a><br><br>
     </td>
   </tr>
 </table>  
